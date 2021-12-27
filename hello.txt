@@ -1,7 +1,8 @@
 "hello" 
 
-*****below lines are added in tes branch******
+*****below lines are added in dev branch******
 milk packet
+<<<<<<< HEAD
 tea
 coffee
 # Mean while below lines are added from main branch
@@ -9,3 +10,6 @@ coffee
 Juice
 badam milk
 
+=======
+Milkshake
+>>>>>>> dev
